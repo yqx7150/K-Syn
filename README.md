@@ -13,7 +13,7 @@ K-space synthesis for MR imaging
 | ![sample_1](https://github.com/user-attachments/assets/e01da4b2-f15f-4527-b1d9-9ccf35ef141e) | ![sample_1](https://github.com/user-attachments/assets/a5869e32-1879-429a-8fd9-845953347c52) |
 
 
-| <img width="180" height="180" alt="sample_0" src="https://github.com/user-attachments/assets/30807982-fbea-4581-9378-f21e45723272" /> | [查看原始资源](https://github.com/user-attachments/assets/30807982-fbea-4581-9378-f21e45723272) |
-| <img width="180" height="180" alt="sample_1" src="https://github.com/user-attachments/assets/e01da4b2-f15f-4527-b1d9-9ccf35ef141e" /> | [查看原始资源](https://github.com/user-attachments/assets/e01da4b2-f15f-4527-b1d9-9ccf35ef141e) |
-| <img width="180" height="180" alt="sample_0" src="https://github.com/user-attachments/assets/0e9bf520-f6e8-47fc-a68c-74c7b21a5539" /> | [查看原始资源](https://github.com/user-attachments/assets/0e9bf520-f6e8-47fc-a68c-74c7b21a5539) |
-| <img width="180" height="180" alt="sample_1" src="https://github.com/user-attachments/assets/a5869e32-1879-429a-8fd9-845953347c52" /> | [查看原始资源](https://github.com/user-attachments/assets/a5869e32-1879-429a-8fd9-845953347c52) |
+| <img width="180" height="180" alt="sample_0" src="https://github.com/user-attachments/assets/30807982-fbea-4581-9378-f21e45723272" /> | (https://github.com/user-attachments/assets/30807982-fbea-4581-9378-f21e45723272) |
+| <img width="180" height="180" alt="sample_1" src="https://github.com/user-attachments/assets/e01da4b2-f15f-4527-b1d9-9ccf35ef141e" /> | (https://github.com/user-attachments/assets/e01da4b2-f15f-4527-b1d9-9ccf35ef141e) |
+| <img width="180" height="180" alt="sample_0" src="https://github.com/user-attachments/assets/0e9bf520-f6e8-47fc-a68c-74c7b21a5539" /> | (https://github.com/user-attachments/assets/0e9bf520-f6e8-47fc-a68c-74c7b21a5539) |
+| <img width="180" height="180" alt="sample_1" src="https://github.com/user-attachments/assets/a5869e32-1879-429a-8fd9-845953347c52" /> | (https://github.com/user-attachments/assets/a5869e32-1879-429a-8fd9-845953347c52) |
